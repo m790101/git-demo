@@ -1,7 +1,7 @@
 # git-demo
-  >try out this
+    >try out this
 
-1. this is line one
+1.this is line one
   
     or this
 
